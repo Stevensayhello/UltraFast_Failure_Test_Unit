@@ -3,6 +3,7 @@
 This repo contains front end software for Xilinx rftool developed for Xilinx ZCU111. Developed by UBC Capstone group CG-045.
 
 `./DAQ/CMD_Interface.c` is the Command-line Server where ADC and PLL clock can be set.
+
 `./DAQ/Data_Interface.c` is the Data Server for receiving ADC Data and converting them to .csv file.
 
 ## Windows User:
