@@ -13,6 +13,7 @@ Use Microsoft Visual Studio to compile the .c code as terminal app.
 ## Linux/Mac User:
 
 Use gcc to compile the c code
+
 `gcc CMD_Interface.c/Data_Interface.c -o pick_a_name`
 
 ## Initialization Guide
