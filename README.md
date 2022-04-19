@@ -27,3 +27,7 @@ Follow the command line instructions.
 ## Python GUI
 
 After .csv file is saved, run python GUI code at `./GUI/main.py`. Upload the .csv file and then click plot.
+
+## rfdc0476
+
+https://www.xilinx.com/support/documentation-navigation/design-hubs/dh0037-zynq-ultrascale-plus-rfsoc-hub.html
