@@ -18,8 +18,15 @@ Use gcc to compile the c code
 
 ## Initialization Guide
 
-After rftool reset itself, connect Data Server first and then run CMD Server. After cmd server showing Restart Data server, enter D on data server to restart the interface. And then press enter on cmd server to continue initialization. There are some preset settings for ADC which can be use directly.
+After rftool reset itself, connect Data Server first(./client) and then run CMD Server(./AutoInit). 
 
+![img]
+
+After cmd server showing Restart Data server, enter D on data server to restart the interface. 
+
+And then press enter on CMD server to continue initialization. 
+
+Aft
 ## Data Acquisition
 
 Follow the command line instructions.
