@@ -37,7 +37,7 @@ enter `D` on the data server-side to restart the interface.
 
 And then press `enter` on the CMD server to continue initialization. 
 
-The CMD interface will then run the rest initialization process, shown in the figure below.
+The CMD interface will then run the rest initialization process, as shown in the figure below.
 
 ![plot](./readme_screenshots/TCP%20Command%20Init%20Done.png)
 
@@ -49,13 +49,13 @@ Now the CMD interface is letting users choose one of the preset sampling rates. 
 
 After `System Ready` shows up, connect the DUT signal to the ADC port(ADC T0 CH0).
 
-When signal is ready, hit `enter` to start sampling data.
+When the signal is ready, hit `enter` to start sampling data.
 
 After `Data Ready` Shows up, move to the Data interface.
 
 ### Data Interface
 
-Press `r` to read data from the board. The interface will then ask you the sampling rate. Make sure to enter the same rate with the previous step.
+Press `r` to read data from the board. The interface will then ask you the sampling rate. Make sure to enter the same rate as the previous step.
 
 ![plot](./readme_screenshots/Data%20Sample.png)
 
