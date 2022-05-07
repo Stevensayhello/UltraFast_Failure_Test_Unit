@@ -16,6 +16,14 @@ Use GCC to compile the c code
 
 `gcc CMD_Interface.c/Data_Interface.c -o pick_a_name`
 
+## Set IP Address
+
+Connect the Ethernet cable to your computer. And in the IP setting page, set IPv4 address and mask to:
+
+`192.168.1.2`
+
+`255.255.255.0`
+
 ## Initialization Guide
 
 ### Connect Data Server
